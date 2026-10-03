@@ -70,4 +70,3 @@ sc start WinDefend
 
 GNU GENERAL PUBLIC LICENSE v3.0
 
-1. Re-enable services:
